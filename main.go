@@ -24,6 +24,8 @@ func main(){
 	stuff.Interfaces()
 	stuff.Routines()
 	stuff.Mutex()
+	stuff.Channels()
+	stuff.RangeChannel()
 
 
 }
